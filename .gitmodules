@@ -1,0 +1,6 @@
+[submodule "repo2"]
+	path = front
+	url = https://github.com/endorphin82/repo2
+[submodule "repo3"]
+	path = repo3
+	url = https://github.com/endorphin82/repo3
