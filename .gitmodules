@@ -2,5 +2,5 @@
 	path = front
 	url = https://github.com/endorphin82/repo2
 [submodule "repo3"]
-	path = repo3
+	path = backend
 	url = https://github.com/endorphin82/repo3
